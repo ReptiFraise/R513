@@ -7,3 +7,5 @@ flask_httpauth
 werkzeug
 beautifulsoup4
 urllib3
+selenium
+url-parser
