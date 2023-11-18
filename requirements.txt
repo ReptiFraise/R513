@@ -4,6 +4,6 @@ pillow
 flask_httpauth
 Flask
 flask_httpauth
-os
 werkzeug
 beautifulsoup4
+urllib3
